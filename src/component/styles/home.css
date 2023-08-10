@@ -1,0 +1,12 @@
+#home-banner {
+    height: 100vh;
+    background: rgb(32, 32, 91);
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-vector%2Fgolden-music-speaker-with-sound-notes-background_23604887.htm&psig=AOvVaw3LOB8nNKNCkFGXaRAPYThr&ust=1691474445583000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODD1b3vyYADFQAAAAAdAAAAABAE");
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
+
+.container {
+    height: 100%;
+}
